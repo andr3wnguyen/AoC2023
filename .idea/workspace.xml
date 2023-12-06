@@ -9,6 +9,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/scala/day3/input.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/day3/instructions" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/day3/part1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/day4/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/day4/instructions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/day4/part1.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -67,7 +70,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.day2.part2">
+  <component name="RunManager" selected="Application.day4.part1">
     <configuration name="day2.part1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="day2.part1" />
       <module name="AoC23" />
@@ -87,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day4.part1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="day4.part1" />
+      <module name="AoC23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day4.part1" />
         <item itemvalue="Application.day2.part2" />
         <item itemvalue="Application.day2.part1" />
         <item itemvalue="Application.part2" />
