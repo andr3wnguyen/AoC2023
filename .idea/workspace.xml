@@ -6,12 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="15a8c91a-78aa-41a7-b19d-023a0e37753a" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/scala/day2/part1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/day3/input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/day3/instructions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/day3/part1.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/day4/input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/day4/instructions" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/day4/part1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/day4/part2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/day5/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/day5/instructions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/day5/part1.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -21,6 +21,10 @@
       <change beforePath="$PROJECT_DIR$/src/main/scala/day2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day2/input.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/day2/instructions" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day2/instructions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/day2/part2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day2/part2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/day3/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day3/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/day3/instructions" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day3/instructions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/day3/part1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day3/part1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/day4/instructions" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day4/instructions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
     </list>
@@ -70,7 +74,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.day4.part1">
+  <component name="RunManager" selected="Application.day3.part1">
     <configuration name="day2.part1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="day2.part1" />
       <module name="AoC23" />
@@ -97,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day4.part1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="day4.part1" />
+    <configuration name="day3.part1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="day3.part1" />
       <module name="AoC23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="part1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="day1.part1" />
+    <configuration name="day4.part1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="day4.part1" />
       <module name="AoC23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day3.part1" />
         <item itemvalue="Application.day4.part1" />
         <item itemvalue="Application.day2.part2" />
         <item itemvalue="Application.day2.part1" />
         <item itemvalue="Application.part2" />
-        <item itemvalue="Application.part1" />
       </list>
     </recent_temporary>
   </component>
